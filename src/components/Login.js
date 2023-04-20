@@ -98,6 +98,9 @@ const Login = () => {
           </Link>
         </div>
       </form>
+      <footer className="fixed bottom-8 text-gray-500">
+        made by Genevieve Navales - ITE 18
+      </footer>
     </div>
   );
 };
